@@ -304,6 +304,10 @@ h5{
 	min-height: 80px;
 }
 
+.box1 h5{
+	color: #fcfc;
+}
+
 .box2{
 	display: flex;
 	justify-content: center;
