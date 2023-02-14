@@ -29,7 +29,7 @@ nav ul{
 
 
 span{
-	color: #A45EE5;
+	color: #a45ee5;
 }
 
 
@@ -53,7 +53,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-	color: #f9004d;
+	color: #a45ee5;
 	transition:.4s;
 }
 
@@ -124,8 +124,8 @@ h4{
 .about-text .line{
 	width: 70%;
 	height: 3px;
-	border-color: #f9004d;
-	background-color: #f9004d;
+	border-color: #a45ee5;
+	background-color: #a45ee5;
 	text-align: right;
 	margin-left: 75px;
 	margin-bottom: 20px;
@@ -156,7 +156,7 @@ h4{
 	display: inline-block;
 	width: 100%;
 	padding: 14px 130px 14px 15px;
-	border: 2px solid #f9004d;
+	border: 2px solid #a45ee5;
 	outline: none;
 	border-radius: 30px;
 	padding-top: 15px;
@@ -169,7 +169,7 @@ h4{
 	border: none;
 	padding: 10px 30px;
 	border-radius: 30px;
-	background-color:  #f9004d;
+	background-color:  #a45ee5;
 	color: white;
 	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 	top: 6px;
@@ -177,7 +177,7 @@ h4{
 }
 
 button{
-	background-color: #f9004d;
+	background-color: #a45ee5;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -189,7 +189,7 @@ button{
 }
 button:hover{
 	background-color: transparent;
-	border-radius: 2px solid #f9004d;
+	border-radius: 2px solid #a45ee5;
 	cursor: pointer;
 
 }
@@ -243,7 +243,7 @@ button:hover{
 	display: block;
 	text-align: center;
 	margin-left: 0px;
-	color: #f9004d;
+	color: #a45ee5;
 	margin-bottom: 20px;
 
 }
@@ -262,7 +262,7 @@ h5{
 
 }
 .card .button{
-	background-color: #f9004d;
+	background-color: #a45ee5;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -274,7 +274,7 @@ h5{
 
 .card .button: hover{
 	background-color: transparent;
-	border-radius: 2px solid #f9004d;
+	border-radius: 2px solid #a45ee5;
 	cursor: pointer;
 }
 
@@ -334,7 +334,7 @@ h5{
 	display: block;
 	text-align: center;
 	margin-left: 0px;
-	color: #f9004d;
+	color: #a45ee5;
 	margin-bottom: 20px;
 	margin-top: 10px;
 }
@@ -350,7 +350,7 @@ h5{
 }
 
 .contact-me .button-two{
-	background-color: #f9004d;
+	background-color: #a45ee5;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -364,14 +364,14 @@ h5{
 
 .contact-me .button-two:hover{
 	background-color: transparent;
-	border-radius: 2px solid #f9004d;
+	border-radius: 2px solid #a45ee5;
 	cursor: pointer;
 }
 
 .contact-me .wyd{
 	font-size: 60px;
 	margin-left: 0px;
-	color: #f9004d;
+	color: #a45ee5;
 	margin-bottom: 20px;
 	margin-top: 100px;
 }
@@ -400,7 +400,7 @@ h5{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #f9004d;
+	background: #a45ee5;
 	border-radius: 50%;
 	margin: 22px 10px;
 	text-decoration: none;
@@ -412,6 +412,6 @@ h5{
 }
 .contact-me .copyright{
 	margin-bottom: 0px;
-	color: #f9004d;
+	color: #a45ee5;
 	font-size: 15px;
 }
